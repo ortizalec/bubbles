@@ -128,8 +128,6 @@ m := metric.New(
 )
 ```
 
-Go wild. It’s just `lipgloss` under the hood.
-
 ---
 
 ## 📸 Screenshots
@@ -147,7 +145,3 @@ Built with love by [Alec Ortiz](https://github.com/ortizalec), powered by `lipgl
 ## 🪄 License
 
 MIT. Do what you will, but please keep it magical.
-
----
-
-Let me know if you'd like to include example screenshots, badges, or a code playground!
