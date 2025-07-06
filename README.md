@@ -23,7 +23,7 @@ Inspired by the elegance of [Charm](https://charm.sh) tools and the expressive p
 ## 🚀 Getting Started
 
 ```go
-import "github.com/yourname/bubbles/metric"
+import "github.com/ortizalec/bubbles/metric"
 ```
 
 ### Basic Setup
