@@ -1,7 +1,3 @@
-Sure! Here's a fun, Charm-style README for your `metric` package, with a balance of charm and clarity:
-
----
-
 # 🧮 `metric` – Tiny Text Metrics, Beautifully Displayed
 
 *A delightful way to render key-value metrics in your TUI, one line at a time.*
