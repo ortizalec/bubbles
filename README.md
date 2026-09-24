@@ -2,10 +2,6 @@
 
 *A delightful way to render key-value metrics in your TUI, one line at a time.*
 
-Inspired by the elegance of [Charm](https://charm.sh) tools and the expressive power of `lipgloss`, `metric` lets you compose tiny text widgets like stats, tags, or info blocks with rich styles and direction-aware layouts.
-
----
-
 ## ✨ Features
 
 * 📐 Horizontal or vertical stacking
